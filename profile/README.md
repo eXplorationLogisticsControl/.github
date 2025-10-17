@@ -1,4 +1,8 @@
-## Hi there 👋
+# eXploration Logistics & Control (XLC) Group
+
+Welcome to the GitHub organization page of the eXploration Logistics & Control (XLC) group at UC Irvine!
+
+Lab website: [https://faculty.sites.uci.edu/xlc/](https://faculty.sites.uci.edu/xlc/)
 
 <!--
 
